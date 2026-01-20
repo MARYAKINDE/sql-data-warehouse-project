@@ -90,7 +90,7 @@ Develop a centralized data warehouse that consolidates operational data and enab
 
 ## 📂 Repository Structure
 
-
+```
 data-warehouse-project/
 │
 ├── datasets/                    # Raw source data (ERP & CRM)
@@ -115,7 +115,7 @@ data-warehouse-project/
 ├── LICENSE                      # MIT License
 └── .gitignore                   # Git exclusions
 
-
+```
 
 ---
 
